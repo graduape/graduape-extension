@@ -17,6 +17,8 @@ GraduApe is a **Chrome extension** that tracks tokens migrating from **pump.fun*
 - 💎 **Diamond hands** finding quality projects
 
 ---
+V2 // UNZIP GRADUAPE-V2.ZIP
+
 
 ## ✨ **Key Features**
 
